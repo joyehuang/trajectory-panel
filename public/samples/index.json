@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "samples": [
+    {
+      "file": "sample-1.jsonl",
+      "title": "构建 Todo 应用",
+      "timestamp": "2026-08-23T11:00:30.000Z"
+    },
+    {
+      "file": "sample-2.jsonl",
+      "title": "修复 CI 构建失败",
+      "timestamp": "2026-08-23T11:00:30.000Z"
+    },
+    {
+      "file": "sample-3.jsonl",
+      "title": "调研 RAG 方案",
+      "timestamp": "2026-08-23T11:00:30.000Z"
+    }
+  ]
+}

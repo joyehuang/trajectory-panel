@@ -1,0 +1,14 @@
+{
+  "name": "trajectory-panel-daemon",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Local realtime daemon: tails pi agent session JSONL, redacts, broadcasts over WebSocket, syncs to Turso (libSQL); optionally syncs to R2 (legacy).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.17.4",
+    "ws": "^8.18.0"
+  }
+}
